@@ -1,0 +1,28 @@
+
+[
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "date": "2023-06-20",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "roomId": 1
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "date": "2023-06-22",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "roomId": 2
+    },
+    {
+      "id": 3,
+      "customerName": "Alice Johnson",
+      "date": "2023-06-23",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "roomId": 1
+    }
+  ]
+  

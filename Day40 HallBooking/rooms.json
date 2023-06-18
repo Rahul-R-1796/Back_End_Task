@@ -1,0 +1,22 @@
+
+[
+    {
+      "id": 1,
+      "seats": 50,
+      "amenities": ["Projector", "Whiteboard"],
+      "price": 100
+    },
+    {
+      "id": 2,
+      "seats": 30,
+      "amenities": ["Wi-Fi", "Coffee Machine"],
+      "price": 80
+    },
+    {
+      "id": 3,
+      "seats": 20,
+      "amenities": ["Flip Chart"],
+      "price": 60
+    }
+  ]
+  
